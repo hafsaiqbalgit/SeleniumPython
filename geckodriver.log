@@ -1,0 +1,26 @@
+1660302463013	geckodriver	INFO	Listening on 127.0.0.1:57121
+1660302466084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HAFSAI~1\\AppData\\Local\\Temp\\rust_mozprofile552Xrd"
+1660302466611	Marionette	INFO	Marionette enabled
+1660302466618	Marionette	INFO	Listening on port 57131
+WebDriver BiDi listening on ws://localhost:57122
+Read port: 57131
+1660302466781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HAFSAI~1\\AppData\\Local\\Temp\\rust_mozprofile552Xrd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57122/devtools/browser/8b2125d5-6e83-4378-b8b9-f3e69ba31331
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660302478654	Marionette	INFO	Stopped listening on port 57131
+1660307597477	geckodriver	INFO	Listening on 127.0.0.1:58720
+1660307600513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HAFSAI~1\\AppData\\Local\\Temp\\rust_mozprofiledkq5WV"
+1660307600936	Marionette	INFO	Marionette enabled
+1660307600942	Marionette	INFO	Listening on port 58730
+WebDriver BiDi listening on ws://localhost:58721
+Read port: 58730
+1660307601088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HAFSAI~1\\AppData\\Local\\Temp\\rust_mozprofiledkq5WV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58721/devtools/browser/90bc3686-5e0b-4363-b5b2-f4e38b81f621
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660307612116	Marionette	INFO	Stopped listening on port 58730
