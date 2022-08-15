@@ -1,8 +1,8 @@
 import time
 import pytest
-from pageObjects.LoginPage import LoginPage
-from utilities.readProperties import ReadConfig
-from utilities.customLogger import LogGen
+from ..pageObjects.LoginPage import LoginPage
+from ..utilities.readProperties import ReadConfig
+from ..utilities.customLogger import LogGen
 
 class Test_001_Login:
 
