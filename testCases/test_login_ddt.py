@@ -2,10 +2,10 @@ import time
 
 import pytest
 
-from pageObjects.LoginPage import LoginPage
-from utilities.readProperties import ReadConfig
-from utilities.customLogger import LogGen
-from utilities import XLUtils
+from ..pageObjects.LoginPage import LoginPage
+from ..utilities.readProperties import ReadConfig
+from ..utilities.customLogger import LogGen
+from ..utilities import XLUtils
 
 class Test_002_DDT_Login():
     baseURL = ReadConfig.getApplicationURL()
